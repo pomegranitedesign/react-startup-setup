@@ -49,6 +49,8 @@
 
   - styled-components: ^4.0.3
 
+&nbsp;
+
 ## Usage 💻
 ```
 git clone https://github.com/pomegranitedesign/react-startup-setup.git
@@ -57,6 +59,9 @@ cd react-startup-setup
 
 yarn or npm install
 ```
+
+&nbsp;
+
 
 ## Folder Structure 📁
 ```
@@ -76,3 +81,7 @@ react-startup-setup
 |── README.md
 |── webpack.config.js
 ```
+
+&nbsp;
+
+## Made By Dmitriy Shin

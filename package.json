@@ -22,5 +22,12 @@
     "react-dom": "^16.6.0",
     "react-router-dom": "^4.3.1",
     "styled-components": "^4.0.3"
-  }
+  },
+  "name": "react-startup-setup",
+  "version": "1.0.0",
+  "description": "A basic React.js project setup",
+  "main": "index.js",
+  "repository": "https://github.com/pomegranitedesign/react-startup-setup.git",
+  "author": "Dmitriy Shin <dimashin9@gmail.com>",
+  "license": "MIT"
 }
