@@ -6,6 +6,9 @@ const UglifyJSPlugin = require("uglifyjs-webpack-plugin");
 
 module.exports = env => {
   return {
+    // Mode
+    mode: env.mode,
+
     // Entry
     entry: "./src/index.js",
 
