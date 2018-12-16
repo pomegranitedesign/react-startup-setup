@@ -4,6 +4,10 @@
 
 &nbsp;
 
+![React Logo Big](https://scotch-res.cloudinary.com/image/upload/dpr_1,w_1050,q_auto:good,f_auto/media/16966/WTuIcUkIRmyQ6fL58pCt_1_vHHBwcUFUaHWXntSnqKdCA.png.jpg)
+
+&nbsp;
+
 ## Dependecies 💾
 - Development Dependencies ![Dev Dependencies](https://img.shields.io/david/dev/expressjs/express.svg)
   - @babel/core: ^7.1.2
